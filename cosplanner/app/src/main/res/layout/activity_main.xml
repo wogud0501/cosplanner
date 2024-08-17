@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <!-- Google AdSense 광고를 위한 View -->
+    <FrameLayout
+        android:id="@+id/ad_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:padding="8dp">
+        <!-- 광고를 위한 뷰를 여기에 추가합니다 -->
+    </FrameLayout>
+
+    <!-- 버튼들 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:padding="8dp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="4dp">
+
+            <Button
+                android:id="@+id/button_ilpe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="일페"
+                android:background="?attr/selectableItemBackground"/>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="4dp">
+
+            <Button
+                android:id="@+id/button_cocofe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="코코페"
+                android:background="?attr/selectableItemBackground"/>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="4dp">
+
+            <Button
+                android:id="@+id/button_secco"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="서코"
+                android:background="?attr/selectableItemBackground"/>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="4dp">
+
+            <Button
+                android:id="@+id/button_buko"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="부코"
+                android:background="?attr/selectableItemBackground"/>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="4dp">
+
+            <Button
+                android:id="@+id/button_edga"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="에드가"
+                android:background="?attr/selectableItemBackground"/>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="4dp">
+
+            <Button
+                android:id="@+id/button_schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="일정 관리"
+                android:background="?attr/selectableItemBackground"/>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,6 @@
+{
+    "target": "cosplanner",
+    "package": "com.develop",
+    "generateImplementation": true,
+    "generatePreviews": true
+}

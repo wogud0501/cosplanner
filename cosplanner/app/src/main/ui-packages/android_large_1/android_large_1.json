@@ -1,0 +1,489 @@
+{
+  "name": "android_large_1",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "e1IrFWCzPxbAPPNkVjauCg",
+    "node": "7:3",
+    "version": "6443798677",
+    "component-id": "fa8b75ea2fe26658317964df28731beaba658c63"
+  },
+  "default": "Android Large - 1",
+  "documentation": "a",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 8"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 5"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 6"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 7"
+      },
+      {
+        "type": "text",
+        "id": "코코페"
+      },
+      {
+        "type": "text",
+        "id": "일페"
+      },
+      {
+        "type": "text",
+        "id": "서코"
+      },
+      {
+        "type": "text",
+        "id": "부코"
+      }
+    ],
+    "modes": {
+      "Android Large - 1": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "Rectangle 1",
+              "Rectangle 8",
+              "Rectangle 4",
+              "Rectangle 5",
+              "Rectangle 6",
+              "Rectangle 2",
+              "Rectangle 3",
+              "Rectangle 7",
+              "코코페",
+              "일페",
+              "서코",
+              "부코"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Rectangle 1",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 361.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 34.0
+              }
+            },
+            "vector-content": "rectangle_1.svg"
+          },
+          {
+            "id": "Rectangle 8",
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 51.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 361.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 525.0
+              }
+            },
+            "vector-content": "rectangle_8.svg"
+          },
+          {
+            "id": "Rectangle 4",
+            "border-radius": 15.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.2980392156862745,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 4.0,
+              "offset-y": 4.0,
+              "spread": 2.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 11.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 656.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 97.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "vector-content": "rectangle_4.svg"
+          },
+          {
+            "id": "Rectangle 5",
+            "border-radius": 15.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.2980392156862745,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 2.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 120.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 656.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 97.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "vector-content": "rectangle_5.svg"
+          },
+          {
+            "id": "Rectangle 6",
+            "border-radius": 15.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 0.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 235.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 658.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 97.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "vector-content": "rectangle_6.svg"
+          },
+          {
+            "id": "Rectangle 2",
+            "border-radius": 15.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.2980392156862745,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 3.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 6.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 727.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 97.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "vector-content": "rectangle_2.svg"
+          },
+          {
+            "id": "Rectangle 3",
+            "border-radius": 15.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.2980392156862745,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 4.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 118.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 726.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 97.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "vector-content": "rectangle_3.svg"
+          },
+          {
+            "id": "Rectangle 7",
+            "border-radius": 15.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.2980392156862745,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 4.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 231.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 726.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 97.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "vector-content": "rectangle_7.svg"
+          },
+          {
+            "id": "코코페",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 45.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 674.0
+              }
+            },
+            "text-content": "코코페",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.094000021616618,
+            "typeface": "KoPub Batang"
+          },
+          {
+            "id": "일페",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 168.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 675.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 25.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 15.0
+              }
+            },
+            "text-content": "일페",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.094000021616618,
+            "typeface": "KoPub Batang"
+          },
+          {
+            "id": "서코",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 277.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 676.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 13.0
+              }
+            },
+            "text-content": "서코",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.094000021616618,
+            "typeface": "KoPub Batang"
+          },
+          {
+            "id": "부코",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 49.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 748.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 26.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 12.0
+              }
+            },
+            "text-content": "부코",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.094000021616618,
+            "typeface": "KoPub Batang"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Android Large - 1",
+      "size": {
+        "width": 360.0,
+        "height": 793.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
